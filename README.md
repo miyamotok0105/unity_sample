@@ -14,6 +14,7 @@ download asset UniRx.
 wget https://s3-ap-northeast-1.amazonaws.com/unity3d-com-jp-learn-tutorials/2d-shooting-game/project/2d-shooting-game.zip
     
 
+- Observable_sample
 
 
 
